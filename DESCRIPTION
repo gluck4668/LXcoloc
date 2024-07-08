@@ -1,0 +1,10 @@
+Package: LXcoloc
+Type: LXcoloc
+Title: LXcoloc
+Version: 1.02
+Author: Dr.lin
+Maintainer: Dr.lin <gluck4668@sina.com>
+Description: LXcoloc can be used to analyze the colocalization between eQTLs and GWAS.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
